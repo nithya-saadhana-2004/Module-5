@@ -60,5 +60,7 @@ print( Employee1.Employee_Details() , Employee1.Employee_check() )
 
 ## Sample Output
 <img width="811" height="229" alt="image" src="https://github.com/user-attachments/assets/e31c57dc-16c7-4b2a-b12f-f4c9499283c6" />
+
+
 ## Result
 Thus the output is verified.
